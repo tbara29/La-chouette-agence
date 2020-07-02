@@ -17,11 +17,7 @@ a:hover {
   text-decoration: none;
   cursor: pointer;
 }
-img{
-    width: 150px;
-    height: 150px;
-    margin: auto;
-}
+
 #page-loading-blocs-notifaction {
   position: fixed;
   top: 0;
